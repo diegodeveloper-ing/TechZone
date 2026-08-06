@@ -72,7 +72,7 @@ html, body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 60px 20px;
+    padding: 10px 20px;
     background: rgba(0, 0, 0, 0.55);
     border-radius: 0 0 40px 40px;
     margin-bottom: 70px;
@@ -110,7 +110,7 @@ html, body {
 /* ===== BUSCADOR DE COMPONENTES ===== */
 .buscador {
     text-align: center;
-    background: rgba(10, 8, 8, 0.55);
+    background: rgba(14, 35, 67, 0.744);
     border-radius: 40px;
     width: 85%;
     max-width: 900px;
@@ -148,7 +148,7 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: #6fffa67e;
+    color: #ac74d8;
     font-weight: bold;
 }
 
@@ -157,7 +157,7 @@ html, body {
 }
 
 .select-group select {
-    background: rgba(44, 196, 175, 0.384);
+    background: rgba(67, 15, 150, 0.384);
     color: white;
     border-radius: 10px;
     padding: 12px 18px;
@@ -170,7 +170,7 @@ html, body {
 }
 
 .select-group select:hover {
-    background: #1f7a76;
+    background: rgba(67, 15, 150, 0.384);
     transform: scale(1.07);
     border: 2px solid #cfbc64;
     box-shadow: 0 6px 16px rgba(90, 79, 207, 0.6);
@@ -178,7 +178,7 @@ html, body {
 
 .select-group select:focus {
     outline: none;
-    background: #31beb7;
+    background: rgba(67, 15, 150, 0.384);
     border: 2px solid #d60000b9;
     box-shadow: 0 0 15px #d60000;
 }
@@ -187,7 +187,7 @@ html, body {
 .submit {
     margin-top: 20px;
     padding: 12px 28px;
-    background: #007bff;
+    background: rgb(67, 24, 135);
     color: white;
     border: none;
     border-radius: 10px;
